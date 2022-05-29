@@ -59,7 +59,7 @@ function lakukanLooping(arrPegawai) {
     console.log('Jumlah Pria lebih banyak dari Wanita');
   }else if (jumlahPria < jumlahWanita){
     console.log('Jumlah Wanita lebih banyak dari Pria');
-  }else if(jumlahPria = jumlahWanita){
+  }else{
     console.log('Jumlah Pria dan Wanita berimbang');
   }
 
